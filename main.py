@@ -100,3 +100,4 @@ print("adversaire de difficulter de force " ,force_de_monstre1, "est apparue.")
 
 
 
+d
