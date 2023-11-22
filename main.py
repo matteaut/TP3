@@ -2,6 +2,7 @@
 
 import random
 
+
 def main():
     vie = 20
     victoire = 0
