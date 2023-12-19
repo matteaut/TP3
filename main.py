@@ -66,7 +66,6 @@ def main():
                 victoire_consecutive = 0
 
             print(victoire, "vs", defaite)
-
         elif selectionporte == 2: #Contourner
 
             print("Votre vie a diminuer")
