@@ -41,6 +41,11 @@ class NPC():
 
 
 
+class kobold(NPC):
+    def __init__(self):
+        super().__init__()
+        self.race = "Kobold"
+        self.espace = "monstre"
+        self.profession = "voleur"
+        self.nom = "Kobold"
 
-
-agetw
