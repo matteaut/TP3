@@ -66,7 +66,7 @@ class MyGame(arcade.Window):
         super().__init__(width, height, "Circles and Rectangles Game")
         self.circle_and_rectangle_list = []
 
-        arcade.set_background_color(arcade.color.AVOCADO)
+        arcade.set_background_color(arcade.color.AUROMETALSAURUS)
     def on_draw(self):
         arcade.start_render()
 
